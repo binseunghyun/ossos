@@ -1,10 +1,6 @@
 # ossos
 
-<pre>
-     python
-  print("Hello World")
-     
-</pre>
+<pre>   python print("Hello World")   </pre>
 
 <pre>
   $$
