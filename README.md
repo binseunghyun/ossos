@@ -1,9 +1,9 @@
 # ossos
 
 <pre>
-  '''python
+     python
   print("Hello World")
-  '''
+     
 </pre>
 
 <pre>
